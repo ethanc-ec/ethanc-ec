@@ -6,7 +6,7 @@ Hi! I'm Ethan Chang, a sophomore at Boston University majoring in Data Science a
 #### 📈 GitHub Stats
 
 <a href="https://github.com/ethanc-ec/ethanc-ec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanc-ec&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanc-ec&hide=css,html&layout=compact&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/ethanc-ec/ethanc-ec">
