@@ -8,6 +8,6 @@ Hi! I'm Ethan Chang, a junior at Boston University majoring in Data Science and 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanc-ec&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=stars" alt="Ethan's GitHub Stats" />
 </a>
 <a href="https://github.com/ethanc-ec/ethanc-ec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanc-ec&hide=css,HTML&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanc-ec&hide=jupyter%20notebook,css,HTML&layout=compact&theme=tokyonight" />
 </a>
 
