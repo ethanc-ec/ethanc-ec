@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm Ethan Chang, a senior at Boston University majoring in Data Science and minoring in Business Administration & Management. Additionally, I'm currently a Course Assistant for CDS DS 100 and a Data Science Intern for BU Spark!. My interests are data engineering, machine learning, and spending 3 hours to automate a three-second task. Additionally, I'm skilled at Python, SQL, and data analysis. <!-- Feel free to visit my <a href="https://ethanc-ec.github.io/profile-website/" target="_blank" rel="noopener noreferrer">website</a>! -->
+Hi! I'm Ethan Chang, a senior at Boston University majoring in Data Science and minoring in Business Administration & Management. Additionally, I'm currently a Teaching Assistant for CDS DS 100 and a Technical Project Manager for BU Spark! My interests are data engineering, machine learning, and spending 3 hours to automate a three-second task. Additionally, I'm skilled in Python, SQL, and data analysis. 
 
 
 #### 📈 GitHub Stats
